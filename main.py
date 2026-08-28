@@ -12,6 +12,7 @@ def main():
 
 if __name__ == "__main__":
     try:
-        main()
+        while True:
+            main()
     except Exception:
         print("file written maybe idk finch wrote this on his phone")
